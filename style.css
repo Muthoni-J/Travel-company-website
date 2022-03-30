@@ -1,0 +1,84 @@
+nav ul li{
+    display :inline;
+    padding: 20px 40px;
+}
+nav ul li a{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(238, 230, 240);
+    font-style: oblique;
+    text-decoration: none;
+}
+body{
+    background-image: url(images/beaches.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(16, 65, 7);
+    text-align: center;
+}
+.Fun Travel h1{
+    font-size:xx-large;
+    text-decoration: wavy;
+    font-style: initial;
+   }
+   table{
+     /* border: 2px solid black ; */
+       display :flex;
+       margin-top:120px;
+       
+   }
+   table{
+     border-collapse: collapse;
+     border: 3px solid rgba(17, 17, 17);
+   }
+
+   th {
+     height: 50px;
+     text-align: left;
+     background-color: aqua;
+     /* border: 3px solid rgba(17, 17, 17); */
+
+     
+   }
+   td{
+     
+     height: 60px;
+     color: rgb(17, 17, 17);
+     text-align: left;
+    border: 3px solid rgba(17, 17, 17);
+   }
+
+   .all-browsers {
+    margin-top: 150px;
+    padding: 5px;
+    background-color: lightgray;
+    
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  h1{
+    margin-top: 180px;
+  }
+  .heading1{
+    margin-top: -2px;
+padding-top: 20px;
+  }

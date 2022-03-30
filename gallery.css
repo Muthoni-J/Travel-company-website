@@ -1,0 +1,27 @@
+nav ul li{
+    display :inline;
+    padding: 20px 40px;
+}
+nav ul li a{
+    font-size:xx-large;
+    font-weight:bolder;
+    color: rgb(167, 128, 21);
+    font-style: oblique;
+    text-decoration: none;
+}
+body{
+    background-image: url(images/safari.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(217, 235, 227);
+    text-align:end;
+}
+iframe{
+    margin-top: 70p;
+    margin-left: 50%;
+    
+}
+   
+    
+
+

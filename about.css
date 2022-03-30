@@ -1,0 +1,18 @@
+nav ul li{
+    display :inline;
+    padding: 20px 40px;
+}
+nav ul li a{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(238, 230, 240);
+    font-style: oblique;
+    text-decoration: none;
+}
+body{
+    background-image: url(images/beach.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(16, 65, 7);
+    text-align: center;
+}
